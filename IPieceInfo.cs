@@ -1,0 +1,4 @@
+﻿interface IPieceInfo
+{
+    string GetInfo();
+}
